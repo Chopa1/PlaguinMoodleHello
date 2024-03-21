@@ -18,7 +18,7 @@
  * Activity view page for the mod_hello plugin.
  *
  * @package   mod_hello
- * @copyright Year, You Name <your@email.address>
+ * @copyright 2024 Chopa
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

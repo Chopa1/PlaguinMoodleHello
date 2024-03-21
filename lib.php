@@ -16,8 +16,8 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * @package mod_page
- * @copyright  2009 Petr Skoda (http://skodak.org)
+ * @package mod_hello
+ * @copyright  2024 Chopa
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
